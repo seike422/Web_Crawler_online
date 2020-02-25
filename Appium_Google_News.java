@@ -15,7 +15,7 @@ public class base {
 		
 
 	AndroidDriver<AndroidElement>  driver;
-
+	// This file should be inside a file named src
 	 File appDir = new File("src");
      File app = new File(appDir, "com.google.android.apps.magazines_v5.19.0.20011707-2020011707_Android-4.4.apk");
      
